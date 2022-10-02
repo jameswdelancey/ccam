@@ -1,0 +1,6 @@
+.gawk*
+environ.txt
+examples.awk
+get_environ.awk
+lint.awk
+awkprof.out
